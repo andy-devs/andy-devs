@@ -1,5 +1,1 @@
-- Hi, I’m @andy-devs, I'm 18 and currently live in Omsk
-- I’m interested in Web Development and new technologies overall 
-- I’m currently learning React and it's ecosystem
-- You can reach me in VK: https://vk.com/mark.andrey
-- Or text me by email: markushin.andrew@gmail.com
+
